@@ -1,3 +1,3 @@
 # COVID-19-Data-Exploration
 
-Mini Tableau Visualization: 
+COVID-19 Mini Tableau Dashboard: 
